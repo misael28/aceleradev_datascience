@@ -1,25 +1,26 @@
-# Redução de dimensionalidade e seleção de
+# Feature engineering
 
-Neste desafio vamos praticar redução de dimensionalidade com PCA e seleção
-de variáveis com RFE.
+Neste desafio vamos praticar _feature engineering_, a arte de processar
+variáveis do _data set_ a fim de torná-las mais adequadas aos algoritmos
+de ML e produzir melhores resultados.
 
 ## Objetivo
 
-O objetivo deste desafio é explorar sobre como funciona o PCA e como podemos
-obter _data sets_ de dimensões mais baixas através dele.
+O objetivo deste desafio é adquirir conhecimento e prática nas ferramentas
+mais usuais de engenharia de variáveis. Com o domínio apropriado das
+técnicas básicas, como _one-hot encoding_, normalização e padroniação,
+o analista está mais bem preparado para conduzir uma etapa de preprocessamento
+dos dados que traga bons resultados da aplicação dos algoritmos de ML.
 
-Para isso, vamos contar com o _data set_ [FIFA 2019](https://www.kaggle.com/karangadiya/fifa19)
-que contém originalmente 89 variáveis com diversos atributos de mais de 18 mil jogadores
-do _game_ FIFA 2019.
+Para isso, vamos contar com o _data set_ [Countries of the world](https://www.kaggle.com/fernandol/countries-of-the-world)
+que contém 20 variáveis, como população, área costeira e tamanho dos setores de produção, de 227 países.
 
 ## Tópicos
 
 Neste desafios nós vamos explorar:
 
-* Redução de dimensionalidade
-* PCA
-* Seleção de variáveis
-* RFE
+* Feature engineering
+* Processamento de texto
 
 ## Requisitos
 
